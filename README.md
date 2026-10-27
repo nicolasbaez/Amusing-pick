@@ -26,6 +26,6 @@ draw = (_) => {
     }
     circle(a, i, 32);
   }
-  if (k == 0) saveGif("xp089.gif", 666, { delay: 0, units: "frames" });
+  if (k == 0) saveGif("xp086.gif", 666, { delay: 0, units: "frames" });
   k += 0.5;
 };
